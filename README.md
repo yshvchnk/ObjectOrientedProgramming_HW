@@ -1,2 +1,2 @@
 # ObjectOrientedProgramming_HW
-homework for the Object Oriented Programming course
+- Homeworks for the ***Object Oriented Programming*** course. Repo contains practical works.
